@@ -82,4 +82,3 @@ The project files are organized with clear naming conventions to reflect their f
 
 ---
 
-Ce formatage met en évidence les différentes sections et sous-sections pour une navigation facile. Assurez-vous également que le texte reste à jour avec votre projet réel.
