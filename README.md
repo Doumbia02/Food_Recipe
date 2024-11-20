@@ -1,8 +1,9 @@
 #FOOD RECIPE WEB APPLICATION
-#Overview
+
+##Overview
 A web application for food enthusiasts to browse, share, and interact around a collection of recipes. This project enables both customers and administrator to manage and access recipes through a user-friendly interface.
 
-#FEATURES
+###FEATURES
 1. Customer Registration and Authentication
 Registration with Email Verification: Customers can sign up with an email address, which they need to verify to complete registration.
 
@@ -28,13 +29,13 @@ Request Feature: Customers can request new recipes or suggest improvements.
 5. Customer Chat Room
 Interactive Platform: Registered customers have access to a chat room where they can share experiences, discuss recipes, and connect with others.
 
-#Tech Stack
+####Tech Stack
 Frontend : HTML, CSS, JavaScript for user interface.
 Backend : PHP for server-side logic and interaction with MySQL.
 Database: MySQL for relational data storage.
 
 
-#SET UP AND INSTALLATION
+#####SET UP AND INSTALLATION
 
 1.Prepare the XAMPP Environment:
 Download and install XAMPP if you haven't already.
