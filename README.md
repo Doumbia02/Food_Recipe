@@ -67,8 +67,8 @@ A web application for food enthusiasts to browse, share, and interact around a c
 3. Register a new customer account to explore the features.  
 4. **Admin Access:**  
    Login with the following credentials to manage recipes and view customer feedback:  
-   - **Name:** abdella  
-   - **Email:** abdellaabasse@iut-dhaka.edu  
+   - **Name:** youss 
+   - **Email:** youssoufemansour@gmail.com 
    - **Password:** 12345  
 
 ---
